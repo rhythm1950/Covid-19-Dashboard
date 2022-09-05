@@ -1,5 +1,5 @@
 # Covid-19 Dashboard
-This is a website of Covid-19 Dashboard. I have developed it using HTML, CSS, React.js, API.
+This is a website of Covid-19 Dashboard. I have developed it using HTML, CSS, Bootstrap, React.js, API.
 
 ### Deployment
 | Environment | Link |
@@ -13,8 +13,7 @@ This is a website of Covid-19 Dashboard. I have developed it using HTML, CSS, Re
 - ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 #### Frame-Works, PlatForm & Libraries:
-- ![Bootstrap](https://img.shields.io/badge/react-%23563D7C.svg?style=for-the-badge&logo=react&logoColor=white)
-- ![JQUERY](https://img.shields.io/badge/jquery-%0F3460.svg?style=for-the-badge&logo=jquery&logoColor=white)
+- ![React](https://img.shields.io/badge/react-%23563D7C.svg?style=for-the-badge&logo=react&logoColor=white)
 
 #### IDE Used:
 - ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -25,5 +24,5 @@ This is a website of Covid-19 Dashboard. I have developed it using HTML, CSS, Re
 
 
 ### Website Preview:
-<img src="./assets/img/Techo-Agency.png" alt="Techo Agency">
+<img src="./public/React-App.png" alt="React App">
 
