@@ -13,6 +13,7 @@ This is a website of Covid-19 Dashboard. I have developed it using HTML, CSS, Bo
 - ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 #### Frame-Works, PlatForm & Libraries:
+- ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 - ![React](https://img.shields.io/badge/react-%23563D7C.svg?style=for-the-badge&logo=react&logoColor=white)
 
 #### IDE Used:
